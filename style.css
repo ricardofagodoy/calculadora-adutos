@@ -1,0 +1,30 @@
+body {
+    margin: 0;
+    height: 100vh;
+    font-size: 1.8vh;
+}
+
+.frame {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.mcontainer {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.title {
+    font-size: 3em;
+}
+
+#mass {
+    width: 50%;
+}
+
+.table th {
+    text-align: center;
+}
